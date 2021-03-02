@@ -24,13 +24,13 @@ export function getUserPermission(){
             menuLabel:'会员管理',
             push:"member",
             icon:'el-icon-document',
-            chid:[]
+            child:[]
         },{
             id:5,
             menuLabel:'企业管理',
             push:"company",
             icon:'el-icon-setting',
-            chid:[]
+            child:[]
         }
     ] 
     

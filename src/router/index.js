@@ -13,7 +13,8 @@ const routes = [
       {
         path:'project/:status',
         name:"Project",
-        component:Project
+        component: Project,
+        props: route=>({status:route.params.status})
       },{
         path:'member',
         name:'Member',

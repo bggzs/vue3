@@ -28,7 +28,7 @@ setup(props){
 <style lang='less' scoped>
     .header-bar{
         padding: 0 40px;
-        height: 54px;
+        height: 60px;
         display: flex;
         align-items: center;
         justify-content: space-between;
