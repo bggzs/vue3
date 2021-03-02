@@ -32,7 +32,6 @@ setup(props){
         display: flex;
         align-items: center;
         justify-content: space-between;
-        box-shadow: 0px 0px 32px 0px rgba(169, 169, 169, 0.2);
         .user-name{
             flex: auto;
             text-align: right;

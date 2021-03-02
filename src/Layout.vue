@@ -75,6 +75,7 @@ export default {
 .el-header {
   padding: 0;
   background: #ffffff;
+  box-shadow: 0px 0px 32px 0px rgba(169, 169, 169, 0.2);
 }
 .el-main {
   height: calc(100vh - 60px);
